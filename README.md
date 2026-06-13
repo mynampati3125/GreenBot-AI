@@ -5,9 +5,9 @@ Watch the complete video demonstration of GreenBot AI on LinkedIn:
 LinkedIn Demo Video:
 https://www.linkedin.com/posts/keerthana-mynampati-7bb702303_artificialintelligence-machinelearning-deeplearning-ugcPost-7471589550507614209-Dy0Z/
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-🌱 GreenBot AI – Crop Disease Detection & Cure Recommendation
+🌱 GreenBot AI: AI-Powered Crop Disease Detection and Treatment Recommendation System
 
 
 📌 Project Overview
@@ -35,15 +35,18 @@ This project was developed as part of the Infosys Internship Program.
 
 💬 Integrated Chatbot for User Assistance
 
-🛠️ Technologies Used:
-Technology	          Purpose
-Python	              Core programming language
-Streamlit	          Web application interface
-Machine Learning	  Crop disease prediction
-SQLite	              User authentication database
-ReportLab	          PDF report generation
-Botpress	          Chatbot integration
-GitHub	              Project version control
+
+🛠️ Technologies Used
+
+|     Technology     |         Purpose              |
+|--------------------|------------------------------|
+| Python             | Core programming language    |
+| Streamlit          | Web application interface    |
+| Machine Learning   | Crop disease prediction      |
+| SQLite             | User authentication database |
+| ReportLab          | PDF report generation        |
+| Botpress           | Chatbot integration          |
+| GitHub             | Project version control      |
 
 📂 Project Structure
 GreenBot-AI
@@ -94,9 +97,23 @@ The application will open in your browser.
 
 📸 Application Interface
 
-Upload crop images to receive instant disease detection results and treatment recommendations.
+🔐 Login & AI Assistant
+<img width="1920" height="1025" alt="2_Chatbot_Opened" src="https://github.com/user-attachments/assets/b8d5c926-f353-4b50-9f02-650313054f0e" />
 
-https://www.linkedin.com/posts/keerthana-mynampati-7bb702303_artificialintelligence-machinelearning-deeplearning-ugcPost-7471589550507614209-Dy0Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2GVf8BoLhZ9elhqBNhAv5f_pN4E9NjXpc
+📷 Crop Image Upload & Prediction
+<img width="1920" height="886" alt="1_Streamlit_Prediction_Output" src="https://github.com/user-attachments/assets/7352e69d-3628-4685-b37c-9c22b45dfab6" />
+🌿 Treatment & Care Plan
+<img width="1920" height="1012" alt="05_PDF_Download_Option" src="https://github.com/user-attachments/assets/43ffe648-0054-4b20-b93b-3d8309335183" />
+
+
+
+⭐ Key Highlights
+
+- Developed an end-to-end AI-powered agricultural web application.
+- Implemented secure user authentication using SQLite.
+- Integrated chatbot support for user assistance.
+- Generated downloadable PDF reports with prediction insights.
+- Designed a complete disease diagnosis and recommendation workflow.
 
 🎯 Use Cases:
 
