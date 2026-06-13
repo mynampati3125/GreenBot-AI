@@ -1,3 +1,12 @@
+🎥 Project Demonstration
+
+Watch the complete video demonstration of GreenBot AI on LinkedIn:
+
+LinkedIn Demo Video:
+https://www.linkedin.com/posts/keerthana-mynampati-7bb702303_artificialintelligence-machinelearning-deeplearning-ugcPost-7471589550507614209-Dy0Z/
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🌱 GreenBot AI – Crop Disease Detection & Cure Recommendation
 
 
@@ -10,7 +19,7 @@ This project was developed as part of the Infosys Internship Program.
 
 🚀 Features:
 
-🔐 User Authentication (Login & Registration)
+🔐 User Authentication (Login, Logout & Registration)
 
 📷 Upload Crop Images for Analysis
 
@@ -29,11 +38,11 @@ This project was developed as part of the Infosys Internship Program.
 🛠️ Technologies Used:
 Technology	          Purpose
 Python	              Core programming language
-Streamlit	            Web application interface
-Machine Learning	    Crop disease prediction
+Streamlit	          Web application interface
+Machine Learning	  Crop disease prediction
 SQLite	              User authentication database
-ReportLab	            PDF report generation
-Botpress	            Chatbot integration
+ReportLab	          PDF report generation
+Botpress	          Chatbot integration
 GitHub	              Project version control
 
 📂 Project Structure
@@ -46,7 +55,7 @@ GreenBot-AI
 ├── requirements.txt    # Required dependencies
 ├── .gitignore          # Ignored files for Git
 
-🧠 How the System Works
+🧠 How the System Works?
 
 1.User logs into the application.
 2.A crop image is uploaded through the interface.
@@ -69,7 +78,6 @@ Healthy vs Diseased probability
 Treatment recommendations
 Prevention methods
 Soil and fertilizer guidance
-
 Downloadable report
 
 ⚙️ Installation & Setup
@@ -88,7 +96,7 @@ The application will open in your browser.
 
 Upload crop images to receive instant disease detection results and treatment recommendations.
 
-(You can add screenshots of your application here.)
+https://www.linkedin.com/posts/keerthana-mynampati-7bb702303_artificialintelligence-machinelearning-deeplearning-ugcPost-7471589550507614209-Dy0Z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2GVf8BoLhZ9elhqBNhAv5f_pN4E9NjXpc
 
 🎯 Use Cases:
 
